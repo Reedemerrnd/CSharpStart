@@ -1,0 +1,7 @@
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
+C:\Users\Reed\source\repos\GBHomework1\BodyMassIndex\obj\Debug\BodyMassIndex.csprojAssemblyReference.cache

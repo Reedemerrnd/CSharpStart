@@ -1,0 +1,7 @@
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\bin\Debug\SwapInt.exe.config
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\bin\Debug\SwapInt.exe
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\bin\Debug\SwapInt.pdb
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\obj\Debug\SwapInt.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\obj\Debug\SwapInt.exe
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\obj\Debug\SwapInt.pdb
+C:\Users\Reed\source\repos\GBHomework1\SwapInt\obj\Debug\SwapInt.csprojAssemblyReference.cache
