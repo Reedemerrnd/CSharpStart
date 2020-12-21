@@ -1,0 +1,7 @@
+D:\CSharpStart\Homework2\Recursive\bin\Debug\Recursive.exe.config
+D:\CSharpStart\Homework2\Recursive\bin\Debug\Recursive.exe
+D:\CSharpStart\Homework2\Recursive\bin\Debug\Recursive.pdb
+D:\CSharpStart\Homework2\Recursive\obj\Debug\Recursive.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework2\Recursive\obj\Debug\Recursive.exe
+D:\CSharpStart\Homework2\Recursive\obj\Debug\Recursive.pdb
+D:\CSharpStart\Homework2\Recursive\obj\Debug\Recursive.csprojAssemblyReference.cache
