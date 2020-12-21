@@ -1,0 +1,7 @@
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\bin\Debug\StudyMethods.exe.config
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\bin\Debug\StudyMethods.exe
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\bin\Debug\StudyMethods.pdb
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\obj\Debug\StudyMethods.csprojAssemblyReference.cache
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\obj\Debug\StudyMethods.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\obj\Debug\StudyMethods.exe
+C:\Users\Reed\source\repos\GBHomework1\StudyMethods\obj\Debug\StudyMethods.pdb

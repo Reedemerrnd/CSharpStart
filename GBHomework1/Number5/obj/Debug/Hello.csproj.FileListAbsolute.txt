@@ -1,0 +1,7 @@
+C:\Users\Reed\source\repos\GBHomework1\Number5\bin\Debug\Number5.exe.config
+C:\Users\Reed\source\repos\GBHomework1\Number5\bin\Debug\Number5.exe
+C:\Users\Reed\source\repos\GBHomework1\Number5\bin\Debug\Number5.pdb
+C:\Users\Reed\source\repos\GBHomework1\Number5\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\GBHomework1\Number5\obj\Debug\Number5.exe
+C:\Users\Reed\source\repos\GBHomework1\Number5\obj\Debug\Number5.pdb
+C:\Users\Reed\source\repos\GBHomework1\Number5\obj\Debug\Hello.csprojAssemblyReference.cache
