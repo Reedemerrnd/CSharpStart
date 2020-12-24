@@ -1,0 +1,6 @@
+D:\CSharpStart\Homework2\PositiveOddSumm\bin\Debug\PositiveOddSumm.exe.config
+D:\CSharpStart\Homework2\PositiveOddSumm\bin\Debug\PositiveOddSumm.exe
+D:\CSharpStart\Homework2\PositiveOddSumm\bin\Debug\PositiveOddSumm.pdb
+D:\CSharpStart\Homework2\PositiveOddSumm\obj\Debug\PositiveOddSumm.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework2\PositiveOddSumm\obj\Debug\PositiveOddSumm.exe
+D:\CSharpStart\Homework2\PositiveOddSumm\obj\Debug\PositiveOddSumm.pdb
