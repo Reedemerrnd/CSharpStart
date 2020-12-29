@@ -1,0 +1,7 @@
+D:\CSharpStart\Homework2\MinOfThree\bin\Debug\MinOfThree.exe.config
+D:\CSharpStart\Homework2\MinOfThree\bin\Debug\MinOfThree.exe
+D:\CSharpStart\Homework2\MinOfThree\bin\Debug\MinOfThree.pdb
+D:\CSharpStart\Homework2\MinOfThree\obj\Debug\MinOfThree.csprojAssemblyReference.cache
+D:\CSharpStart\Homework2\MinOfThree\obj\Debug\MinOfThree.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework2\MinOfThree\obj\Debug\MinOfThree.exe
+D:\CSharpStart\Homework2\MinOfThree\obj\Debug\MinOfThree.pdb

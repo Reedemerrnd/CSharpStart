@@ -1,0 +1,6 @@
+D:\CSharpStart\Homework2\Authorization\bin\Debug\Authorization.exe.config
+D:\CSharpStart\Homework2\Authorization\bin\Debug\Authorization.exe
+D:\CSharpStart\Homework2\Authorization\bin\Debug\Authorization.pdb
+D:\CSharpStart\Homework2\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework2\Authorization\obj\Debug\Authorization.exe
+D:\CSharpStart\Homework2\Authorization\obj\Debug\Authorization.pdb

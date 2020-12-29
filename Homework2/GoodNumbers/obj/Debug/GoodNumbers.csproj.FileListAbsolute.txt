@@ -1,0 +1,7 @@
+D:\CSharpStart\Homework2\GoodNumbers\bin\Debug\GoodNumbers.exe.config
+D:\CSharpStart\Homework2\GoodNumbers\bin\Debug\GoodNumbers.exe
+D:\CSharpStart\Homework2\GoodNumbers\bin\Debug\GoodNumbers.pdb
+D:\CSharpStart\Homework2\GoodNumbers\obj\Debug\GoodNumbers.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework2\GoodNumbers\obj\Debug\GoodNumbers.exe
+D:\CSharpStart\Homework2\GoodNumbers\obj\Debug\GoodNumbers.pdb
+D:\CSharpStart\Homework2\GoodNumbers\obj\Debug\GoodNumbers.csprojAssemblyReference.cache

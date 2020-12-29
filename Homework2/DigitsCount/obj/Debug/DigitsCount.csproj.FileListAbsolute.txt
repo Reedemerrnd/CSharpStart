@@ -1,0 +1,6 @@
+D:\CSharpStart\Homework2\DigitsCount\bin\Debug\DigitsCount.exe.config
+D:\CSharpStart\Homework2\DigitsCount\bin\Debug\DigitsCount.exe
+D:\CSharpStart\Homework2\DigitsCount\bin\Debug\DigitsCount.pdb
+D:\CSharpStart\Homework2\DigitsCount\obj\Debug\DigitsCount.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework2\DigitsCount\obj\Debug\DigitsCount.exe
+D:\CSharpStart\Homework2\DigitsCount\obj\Debug\DigitsCount.pdb
