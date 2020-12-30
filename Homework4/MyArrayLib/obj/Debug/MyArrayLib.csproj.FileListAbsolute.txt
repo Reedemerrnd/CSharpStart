@@ -1,0 +1,5 @@
+C:\Users\Reed\source\repos\Homework4\MyArrayLib\bin\Debug\MyArrayLib.dll
+C:\Users\Reed\source\repos\Homework4\MyArrayLib\bin\Debug\MyArrayLib.pdb
+C:\Users\Reed\source\repos\Homework4\MyArrayLib\obj\Debug\MyArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\Homework4\MyArrayLib\obj\Debug\MyArrayLib.dll
+C:\Users\Reed\source\repos\Homework4\MyArrayLib\obj\Debug\MyArrayLib.pdb

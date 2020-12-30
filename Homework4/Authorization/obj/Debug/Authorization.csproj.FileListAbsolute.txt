@@ -1,0 +1,7 @@
+C:\Users\Reed\source\repos\Homework4\Authorization\bin\Debug\Authorization.exe.config
+C:\Users\Reed\source\repos\Homework4\Authorization\bin\Debug\Authorization.exe
+C:\Users\Reed\source\repos\Homework4\Authorization\bin\Debug\Authorization.pdb
+C:\Users\Reed\source\repos\Homework4\Authorization\obj\Debug\Authorization.csprojAssemblyReference.cache
+C:\Users\Reed\source\repos\Homework4\Authorization\obj\Debug\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\Homework4\Authorization\obj\Debug\Authorization.exe
+C:\Users\Reed\source\repos\Homework4\Authorization\obj\Debug\Authorization.pdb

@@ -1,0 +1,6 @@
+C:\Users\Reed\source\repos\Homework4\IntegerArrayWClass\bin\Debug\IntegerArrayWClass.exe.config
+C:\Users\Reed\source\repos\Homework4\IntegerArrayWClass\bin\Debug\IntegerArrayWClass.exe
+C:\Users\Reed\source\repos\Homework4\IntegerArrayWClass\bin\Debug\IntegerArrayWClass.pdb
+C:\Users\Reed\source\repos\Homework4\IntegerArrayWClass\obj\Debug\IntegerArrayWClass.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\Homework4\IntegerArrayWClass\obj\Debug\IntegerArrayWClass.exe
+C:\Users\Reed\source\repos\Homework4\IntegerArrayWClass\obj\Debug\IntegerArrayWClass.pdb
