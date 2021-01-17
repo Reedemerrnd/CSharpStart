@@ -1,0 +1,10 @@
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\bin\Debug\MatrixDemo.exe.config
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\bin\Debug\MatrixDemo.exe
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\bin\Debug\MatrixDemo.pdb
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\bin\Debug\MyArrayLib.dll
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\bin\Debug\MyArrayLib.pdb
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\obj\Debug\MatrixDemo.csprojAssemblyReference.cache
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\obj\Debug\MatrixDemo.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\obj\Debug\MatrixDemo.csproj.CopyComplete
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\obj\Debug\MatrixDemo.exe
+C:\Users\Reed\source\repos\Homework4\MatrixDemo\obj\Debug\MatrixDemo.pdb

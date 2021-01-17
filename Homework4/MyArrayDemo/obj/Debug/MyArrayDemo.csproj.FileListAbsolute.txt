@@ -1,0 +1,10 @@
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\bin\Debug\MyArrayDemo.exe.config
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\bin\Debug\MyArrayDemo.exe
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\bin\Debug\MyArrayDemo.pdb
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\bin\Debug\MyArrayLib.dll
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\bin\Debug\MyArrayLib.pdb
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\obj\Debug\MyArrayDemo.csprojAssemblyReference.cache
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\obj\Debug\MyArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\obj\Debug\MyArrayDemo.csproj.CopyComplete
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\obj\Debug\MyArrayDemo.exe
+C:\Users\Reed\source\repos\Homework4\MyArrayDemo\obj\Debug\MyArrayDemo.pdb

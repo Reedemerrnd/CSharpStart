@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization", "Authorization\Authorization.csproj", "{17B2CE65-105A-4972-8BE9-977A5F6835FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArrayLib", "MyArrayLib\MyArrayLib.csproj", "{8AAA592B-C1E5-45C9-A1CE-DD2FEADC546F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerArray", "IntegerArray\IntegerArray.csproj", "{9C7B7E8A-2ADA-4466-810A-2590B12D089D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerArrayWClass", "IntegerArrayWClass\IntegerArrayWClass.csproj", "{7CEFEDA9-BD6D-4A7B-A2D8-C1CADAADDBF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixDemo", "MatrixDemo\MatrixDemo.csproj", "{B44E598D-26F5-406B-9E7E-684AC5C44F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyArrayDemo", "MyArrayDemo\MyArrayDemo.csproj", "{487ACD92-BF27-483B-8876-910E33FFED7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B2CE65-105A-4972-8BE9-977A5F6835FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B2CE65-105A-4972-8BE9-977A5F6835FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B2CE65-105A-4972-8BE9-977A5F6835FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B2CE65-105A-4972-8BE9-977A5F6835FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAA592B-C1E5-45C9-A1CE-DD2FEADC546F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAA592B-C1E5-45C9-A1CE-DD2FEADC546F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAA592B-C1E5-45C9-A1CE-DD2FEADC546F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAA592B-C1E5-45C9-A1CE-DD2FEADC546F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7B7E8A-2ADA-4466-810A-2590B12D089D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7B7E8A-2ADA-4466-810A-2590B12D089D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7B7E8A-2ADA-4466-810A-2590B12D089D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7B7E8A-2ADA-4466-810A-2590B12D089D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEFEDA9-BD6D-4A7B-A2D8-C1CADAADDBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEFEDA9-BD6D-4A7B-A2D8-C1CADAADDBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEFEDA9-BD6D-4A7B-A2D8-C1CADAADDBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEFEDA9-BD6D-4A7B-A2D8-C1CADAADDBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44E598D-26F5-406B-9E7E-684AC5C44F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44E598D-26F5-406B-9E7E-684AC5C44F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44E598D-26F5-406B-9E7E-684AC5C44F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44E598D-26F5-406B-9E7E-684AC5C44F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487ACD92-BF27-483B-8876-910E33FFED7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487ACD92-BF27-483B-8876-910E33FFED7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487ACD92-BF27-483B-8876-910E33FFED7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487ACD92-BF27-483B-8876-910E33FFED7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD5A63C8-6037-4107-8408-6C7161CC95F4}
+	EndGlobalSection
+EndGlobal
