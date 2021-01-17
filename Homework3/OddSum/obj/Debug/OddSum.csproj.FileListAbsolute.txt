@@ -1,0 +1,7 @@
+D:\CSharpStart\Homework3\OddSum\bin\Debug\OddSum.exe.config
+D:\CSharpStart\Homework3\OddSum\bin\Debug\OddSum.exe
+D:\CSharpStart\Homework3\OddSum\bin\Debug\OddSum.pdb
+D:\CSharpStart\Homework3\OddSum\obj\Debug\OddSum.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework3\OddSum\obj\Debug\OddSum.exe
+D:\CSharpStart\Homework3\OddSum\obj\Debug\OddSum.pdb
+D:\CSharpStart\Homework3\OddSum\obj\Debug\OddSum.csprojAssemblyReference.cache

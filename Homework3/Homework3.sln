@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex", "Complex\Complex.csproj", "{051DE076-7A5D-42F7-AA25-ED702FD681B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddSum", "OddSum\OddSum.csproj", "{0E46B01C-12AA-4D7B-9549-F86FFA0DAD1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "Fraction\Fraction.csproj", "{E24BC574-D944-4D49-9572-8509D9203D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{051DE076-7A5D-42F7-AA25-ED702FD681B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051DE076-7A5D-42F7-AA25-ED702FD681B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051DE076-7A5D-42F7-AA25-ED702FD681B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051DE076-7A5D-42F7-AA25-ED702FD681B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E46B01C-12AA-4D7B-9549-F86FFA0DAD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E46B01C-12AA-4D7B-9549-F86FFA0DAD1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E46B01C-12AA-4D7B-9549-F86FFA0DAD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E46B01C-12AA-4D7B-9549-F86FFA0DAD1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24BC574-D944-4D49-9572-8509D9203D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24BC574-D944-4D49-9572-8509D9203D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24BC574-D944-4D49-9572-8509D9203D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24BC574-D944-4D49-9572-8509D9203D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F0FC40-46AC-4D1C-9EBD-88FCE118D529}
+	EndGlobalSection
+EndGlobal
