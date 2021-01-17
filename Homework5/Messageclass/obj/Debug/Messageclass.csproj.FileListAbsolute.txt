@@ -1,0 +1,7 @@
+C:\Users\Роман\source\repos\Homework5\Messageclass\bin\Debug\Messageclass.exe.config
+C:\Users\Роман\source\repos\Homework5\Messageclass\bin\Debug\Messageclass.exe
+C:\Users\Роман\source\repos\Homework5\Messageclass\bin\Debug\Messageclass.pdb
+C:\Users\Роман\source\repos\Homework5\Messageclass\obj\Debug\Messageclass.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Homework5\Messageclass\obj\Debug\Messageclass.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Homework5\Messageclass\obj\Debug\Messageclass.exe
+C:\Users\Роман\source\repos\Homework5\Messageclass\obj\Debug\Messageclass.pdb
