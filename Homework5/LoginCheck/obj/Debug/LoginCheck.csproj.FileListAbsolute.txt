@@ -1,0 +1,7 @@
+C:\Users\Роман\source\repos\Homework5\LoginCheck\bin\Debug\LoginCheck.exe.config
+C:\Users\Роман\source\repos\Homework5\LoginCheck\bin\Debug\LoginCheck.exe
+C:\Users\Роман\source\repos\Homework5\LoginCheck\bin\Debug\LoginCheck.pdb
+C:\Users\Роман\source\repos\Homework5\LoginCheck\obj\Debug\LoginCheck.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Homework5\LoginCheck\obj\Debug\LoginCheck.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Homework5\LoginCheck\obj\Debug\LoginCheck.exe
+C:\Users\Роман\source\repos\Homework5\LoginCheck\obj\Debug\LoginCheck.pdb
