@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\Homework7\Doubler\bin\Debug\Doubler.exe.config
+C:\Users\Роман\source\repos\Homework7\Doubler\bin\Debug\Doubler.exe
+C:\Users\Роман\source\repos\Homework7\Doubler\bin\Debug\Doubler.pdb
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.Form1.resources
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.exe
+C:\Users\Роман\source\repos\Homework7\Doubler\obj\Debug\Doubler.pdb
