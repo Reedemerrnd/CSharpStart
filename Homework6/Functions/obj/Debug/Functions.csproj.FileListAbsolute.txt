@@ -1,0 +1,7 @@
+C:\Users\Роман\source\repos\Homework6\Functions\bin\Debug\Functions.exe.config
+C:\Users\Роман\source\repos\Homework6\Functions\bin\Debug\Functions.exe
+C:\Users\Роман\source\repos\Homework6\Functions\bin\Debug\Functions.pdb
+C:\Users\Роман\source\repos\Homework6\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Homework6\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Homework6\Functions\obj\Debug\Functions.exe
+C:\Users\Роман\source\repos\Homework6\Functions\obj\Debug\Functions.pdb
