@@ -23,3 +23,16 @@ C:\Users\Reed\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInp
 C:\Users\Reed\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
 C:\Users\Reed\source\repos\WeatherApp\obj\Debug\WeatherApp.exe
 C:\Users\Reed\source\repos\WeatherApp\obj\Debug\WeatherApp.pdb
+D:\CSharpStart\Homework8\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\CSharpStart\Homework8\WeatherApp\bin\Debug\WeatherApp.exe
+D:\CSharpStart\Homework8\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\CSharpStart\Homework8\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\CSharpStart\Homework8\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.exe
+D:\CSharpStart\Homework8\WeatherApp\obj\Debug\WeatherApp.pdb

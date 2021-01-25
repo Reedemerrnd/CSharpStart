@@ -10,5 +10,10 @@ namespace TrueFalseGame
     {
         public string Quest { get; set; }
         public string Answer { get; set; }
+        public Question(string ques, string answ)
+        {
+            Quest = ques;
+            Answer = answ;
+        }
     }
 }
