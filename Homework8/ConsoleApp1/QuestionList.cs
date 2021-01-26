@@ -11,18 +11,16 @@ namespace TrueFalseGame
 {
     class QuestionList
     {
-        List<Question> data = new List<Question>();
+        List<Question> data;
         public Question this[int index]
         {
             get => data[index];
         }
-        public int Count { get=>data.Count;}
-        string path = @"D:\CSharpStart\Homework8\TrueFalseGame\bin\Debug\quest.xml";
+        string path;
         public QuestionList()
         {
             
         }
-
         private void LoadFromCsv(Stream file)
         {
             StreamReader strRd = new StreamReader(file);              
@@ -47,10 +45,8 @@ namespace TrueFalseGame
             if (saveDialog.ShowDialog() == DialogResult.OK)
             {
                 Stream stream = saveDialog.OpenFile();
-
                 XmlSerializer ser = new XmlSerializer(typeof(List<Question>));
-                ser.Serialize(stream,data);
-
+                ser.Serialize(stream, data);
                 stream.Close();
             }
         }
@@ -61,15 +57,13 @@ namespace TrueFalseGame
             if (openFile.ShowDialog() == DialogResult.OK)
             {
                 path = openFile.InitialDirectory;
-                if (openFile.FilterIndex == 1) LoadFromXML(openFile.OpenFile());
-                else if (openFile.FilterIndex == 2) LoadFromCsv(openFile.OpenFile());
+                if (openFile.FilterIndex == 0) LoadFromXML(openFile.OpenFile());
+                else if (openFile.FilterIndex == 1) LoadFromCsv(openFile.OpenFile());
 
             }
         }
         public void AutoLoad()
         {
-            StreamReader str = new StreamReader(path);
-            LoadFromXML(str.BaseStream);
 
         }
 
