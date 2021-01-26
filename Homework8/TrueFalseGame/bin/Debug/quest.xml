@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Quest>Дятлы умирают от сотрясения мозга</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>В южных странах тараканы достигают размеров мыши</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>На земле есть черви, достигающие в длину 30 метров</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Египетский Сфинкс- одно из Чудес Света</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>На Земле живут бабочки, размах крыльев которых составляет 25 см</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>У некоторых птиц есть зубы</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>Великая Китайская стена видна из космоса</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Азиатские слоны меньше африканских</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Некоторые виды бамбука могут в день вырастать на 90 см</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Древние римляне вместо зубн. пасты использовали порошок из мышиных мозгов</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>В огромном мешке под клювом пеликана помещается больше пищи,чем в желудке</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Родина тюльпанов-Голландия</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>Было время, когда в оперу ходили со своим стулом</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Быков раздражает красный цвет</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>Белые медведи спят зимой</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>В воде с кубиками льда цветы дольше остаются свежими</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Египетские пирамиды были построены военнопленными</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>Юрта – это дом индейца</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>Статую Свободы спроектировал фр.инженер Александр Густав Эйфель</Quest>
+    <Answer>true</Answer>
+  </Question>
+  <Question>
+    <Quest>Полярная звезда-самая яркая в созвездии Большой Медведицы</Quest>
+    <Answer>false</Answer>
+  </Question>
+  <Question>
+    <Quest>Слово «алиби» - греческое и означает «это был не я»</Quest>
+    <Answer>false</Answer>
+  </Question>
+</ArrayOfQuestion>

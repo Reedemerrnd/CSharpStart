@@ -1,0 +1,10 @@
+D:\CSharpStart\Homework8\CsvToXmlStudents\bin\Debug\CsvToXmlStudents.exe.config
+D:\CSharpStart\Homework8\CsvToXmlStudents\bin\Debug\CsvToXmlStudents.exe
+D:\CSharpStart\Homework8\CsvToXmlStudents\bin\Debug\CsvToXmlStudents.pdb
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.csprojAssemblyReference.cache
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.Form1.resources
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.Properties.Resources.resources
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.csproj.GenerateResource.cache
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.exe
+D:\CSharpStart\Homework8\CsvToXmlStudents\obj\Debug\CsvToXmlStudents.pdb

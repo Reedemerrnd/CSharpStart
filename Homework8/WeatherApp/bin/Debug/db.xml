@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfCityForecast xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CityForecast>
+    <CityId>1183</CityId>
+    <Name>Герат</Name>
+    <MinT>N/A</MinT>
+    <MaxT>N/A</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>219</CityId>
+    <Name>Кабул</Name>
+    <MinT>N/A</MinT>
+    <MaxT>N/A</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>242</CityId>
+    <Name>Алжир</Name>
+    <MinT>10 °c</MinT>
+    <MaxT>16 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1434</CityId>
+    <Name>Аннаба</Name>
+    <MinT>9 °c</MinT>
+    <MaxT>20 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1435</CityId>
+    <Name>Бешаре</Name>
+    <MinT>7 °c</MinT>
+    <MaxT>21 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1436</CityId>
+    <Name>Бискра</Name>
+    <MinT>12 °c</MinT>
+    <MaxT>24 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1359</CityId>
+    <Name>Константин</Name>
+    <MinT>5 °c</MinT>
+    <MaxT>15 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1437</CityId>
+    <Name>Джанет</Name>
+    <MinT>7 °c</MinT>
+    <MaxT>25 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1438</CityId>
+    <Name>Джелфе</Name>
+    <MinT>6 °c</MinT>
+    <MaxT>14 °c</MaxT>
+  </CityForecast>
+  <CityForecast>
+    <CityId>1360</CityId>
+    <Name>Ghardaia</Name>
+    <MinT>8 °c</MinT>
+    <MaxT>24 °c</MaxT>
+  </CityForecast>
+</ArrayOfCityForecast>

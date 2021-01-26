@@ -1,0 +1,10 @@
+D:\CSharpStart\Homework8\TrueFalseGame\bin\Debug\TrueFalseGame.exe.config
+D:\CSharpStart\Homework8\TrueFalseGame\bin\Debug\TrueFalseGame.exe
+D:\CSharpStart\Homework8\TrueFalseGame\bin\Debug\TrueFalseGame.pdb
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.csprojAssemblyReference.cache
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.Form1.resources
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.Properties.Resources.resources
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.csproj.GenerateResource.cache
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.csproj.CoreCompileInputs.cache
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.exe
+D:\CSharpStart\Homework8\TrueFalseGame\obj\Debug\TrueFalseGame.pdb
